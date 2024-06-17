@@ -1,4 +1,4 @@
-# youtube_trailer_downloader
+# YoutubeTrailerDownloader
 Walks through a directory called Movies and uses all contained directory names to search youtube for associated movie trailer (so works well if movie folder names are movie title and year of release, eg ./Movies/Bladerunner (1982) ) 
 then downloads first result from returned search results and names it the same as the movie folder name placing it inside the related movie folder with a suffix -trailer.mp4 (eg ./Movies/Bladerunner (1982)/Bladerunner (1982)-trailer.mp4)
 
